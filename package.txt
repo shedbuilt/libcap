@@ -3,3 +3,5 @@ VERSION=2.25
 REVISION=1
 SRC=https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.25.tar.xz
 SRCMD5=6666b839e5d46c2ad33fc8aa2ceb5f77
+OPTIONS=bootstrap|release
+DEFAULTS=release
